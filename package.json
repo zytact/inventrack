@@ -52,7 +52,7 @@
     "@next/eslint-plugin-next": "^15.2.2",
     "@tailwindcss/postcss": "^4",
     "@tanstack/eslint-plugin-query": "^5.68.0",
-    "@types/node": "^20",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "drizzle-kit": "^0.30.5",
